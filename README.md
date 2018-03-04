@@ -1,2 +1,2 @@
 # TF-Dice-Roll
-Demonstrating 10 rolls of two dice in TensorFlow
+Demonstrates ten rolls of two dice in TensorFlow.
