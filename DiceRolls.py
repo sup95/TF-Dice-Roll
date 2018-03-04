@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 with tf.Graph().as_default(), tf.Session() as sess:
   
     #random_uniform: Lower bound included, upper bound excluded
